@@ -1,4 +1,4 @@
-
+<img align="right" width="150" height="150" src="spojentetitlogo.svg?raw=true">
 
 **SpojeNetIT s.r.o.** is a Czech communications company that publishes part of its software to be available to all who use it.
 
