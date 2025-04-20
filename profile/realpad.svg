@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   width="154.07767"
-   height="30"
-   viewBox="0 0 154.07767 30"
+   width="51.359222"
+   height="10"
+   viewBox="0 0 51.359223 10"
    fill="none"
    version="1.1"
    id="svg9"
@@ -24,17 +24,17 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:zoom="3.442344"
-     inkscape:cx="168.05409"
-     inkscape:cy="79.161175"
+     inkscape:cx="92.959913"
+     inkscape:cy="79.161176"
      inkscape:window-width="1920"
-     inkscape:window-height="1120"
-     inkscape:window-x="1920"
+     inkscape:window-height="1164"
+     inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg9" />
   <g
      id="g9"
-     transform="matrix(0.28522573,0,0,0.28522573,4.2776002,0.22791008)">
+     transform="matrix(0.08462877,0,0,0.08462877,4.090768,0.61700211)">
     <path
        d="m 160.233,80.3313 -17.08,-28.1854 c 9.589,-4.0122 14.284,-12.4377 14.284,-21.9666 0,-6.8206 -2.198,-12.538 -6.693,-17.0516 C 146.249,8.51368 139.857,6.20669 131.366,6.20669 H 102 V 80.3313 h 16.481 V 54.4529 h 8.091 l 14.483,25.8784 z M 131.267,21.4529 c 5.893,0 9.189,3.9118 9.189,9.0273 0,5.2158 -3.396,9.3283 -10.288,9.3283 H 118.481 V 21.4529 Z"
        fill="#333638"
