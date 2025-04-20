@@ -6,7 +6,7 @@
    sodipodi:docname="abraflexi.svg"
    viewBox="0 0 9.3749999 9.3749997"
    version="1.1"
-   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
    width="10"
    height="10"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -54,6 +54,51 @@
          style="stop-color:#ffffff;stop-opacity:0"
          offset="1" />
     </linearGradient>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath367">
+      <path
+         d="M 64.09713,512 H 447.9029 c 22.2879,0 30.3701,-2.3206 38.5182,-6.6783 8.1482,-4.3577 14.5429,-10.7524 18.9006,-18.9006 C 509.6794,478.273 512,470.1908 512,447.9029 V 64.09713 C 512,41.80916 509.6794,33.72701 505.3217,25.57886 500.964,17.43071 494.5693,11.03599 486.4211,6.678318 478.273,2.32064 470.1908,0 447.9029,0 H 64.09713 C 41.80916,0 33.72701,2.32064 25.57886,6.678318 17.43071,11.03599 11.03599,17.43071 6.678318,25.57886 2.32064,33.72701 0,41.80916 0,64.09713 V 447.9029 c 0,22.2879 2.32064,30.3701 6.678318,38.5182 4.357672,8.1482 10.752392,14.5429 18.900542,18.9006 8.14815,4.3577 16.2303,6.6783 38.51827,6.6783 z"
+         clip-rule="evenodd"
+         id="path365" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath373">
+      <path
+         d="M 0,0 H 512 V 512 H 0 Z"
+         id="path371" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath383">
+      <path
+         d="M 310.6214,362 424.7089,162.0939 H 310.6961 l -57.0086,99.4988 z"
+         clip-rule="evenodd"
+         id="path381" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath389">
+      <path
+         d="M 0,0 H 512 V 512 H 0 Z"
+         id="path387" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath399">
+      <path
+         d="M 197.1006,362 83.51535,162.0939 H 197.1006 L 310.6214,362 Z"
+         clip-rule="evenodd"
+         id="path397" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath405">
+      <path
+         d="M 0,0 H 512 V 512 H 0 Z"
+         id="path403" />
+    </clipPath>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -66,7 +111,7 @@
      inkscape:window-maximized="1"
      inkscape:zoom="59.732183"
      inkscape:window-x="1920"
-     inkscape:window-height="1176"
+     inkscape:window-height="1120"
      showgrid="false"
      borderopacity="1.0"
      inkscape:current-layer="g4550"
@@ -89,34 +134,57 @@
        id="g4550"
        transform="matrix(1,0,0,0.85496564,0,1.6743816)">
       <g
-         id="g3938"
-         transform="matrix(0.45493288,0.09102672,0.04991252,0.5956553,-38.416711,-9.1812283)">
+         id="g2008"
+         transform="matrix(0.13045138,0,0,0.15258087,55.653826,12.183835)">
         <g
-           transform="matrix(0.04673022,0,0,-0.04673022,137.50996,118.9744)"
-           id="g4525">
+           id="g359"
+           transform="matrix(0.13830246,0,0,-0.13830246,-85.767686,66.029958)" />
+        <g
+           id="g361"
+           transform="matrix(0.13830246,0,0,-0.13830246,-85.767686,66.029958)">
           <g
-             id="g5332"
-             transform="matrix(0.55837961,0.08555006,0.06529726,0.54502821,245.86158,1973.5533)">
-            <path
-               d="M 1708.68,0 1842.46,231.617 1976.17,0 Z"
-               style="fill:#f9ae2d;fill-opacity:1;fill-rule:nonzero;stroke:none"
-               id="path22"
-               inkscape:connector-curvature="0" />
-            <path
-               d="m 1708.68,0 -133.75,231.617 h 267.53 z"
-               style="fill:#d28b25;fill-opacity:1;fill-rule:nonzero;stroke:none"
-               id="path24"
-               inkscape:connector-curvature="0" />
-            <path
-               d="m 1574.93,231.617 133.75,231.68 133.78,-231.68 z"
-               style="fill:#936327;fill-opacity:1;fill-rule:nonzero;stroke:none"
-               id="path26"
-               inkscape:connector-curvature="0" />
-            <path
-               d="M 1708.68,463.297 H 1441.21 L 1173.65,0 h 267.56 l 267.47,463.297"
-               style="fill:#767a7c;fill-opacity:1;fill-rule:nonzero;stroke:none"
-               id="path28"
-               inkscape:connector-curvature="0" />
+             id="g363"
+             clip-path="url(#clipPath367)">
+            <g
+               id="g369"
+               clip-path="url(#clipPath373)">
+              <path
+                 d="M -1,513 H 513 V -1 H -1 Z"
+                 style="fill:#f6b102;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                 id="path375" />
+            </g>
+          </g>
+        </g>
+        <g
+           id="g377"
+           transform="matrix(0.13830246,0,0,-0.13830246,-85.767686,66.029958)">
+          <g
+             id="g379"
+             clip-path="url(#clipPath383)">
+            <g
+               id="g385"
+               clip-path="url(#clipPath389)">
+              <path
+                 d="M 252.6875,363 H 425.7089 V 161.0939 H 252.6875 Z"
+                 style="fill:#fdebbf;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                 id="path391" />
+            </g>
+          </g>
+        </g>
+        <g
+           id="g393"
+           transform="matrix(0.13830246,0,0,-0.13830246,-85.767686,66.029958)">
+          <g
+             id="g395"
+             clip-path="url(#clipPath399)">
+            <g
+               id="g401"
+               clip-path="url(#clipPath405)">
+              <path
+                 d="M 82.51535,363 H 311.6214 V 161.0939 H 82.51535 Z"
+                 style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                 id="path407" />
+            </g>
           </g>
         </g>
       </g>
