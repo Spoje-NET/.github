@@ -23,12 +23,18 @@ Take a look at our resources and decide for yourself whether it would be more ad
 
 #### for Pohoda ![Stormware Pohoda](pohoda.svg?raw=true)
 
+* [pohoda-raiffeisenbank](https://github.com/Spoje-NET/pohoda-raiffeisenbank) - Import Raiffeisenbank statements into Pohoda
 * [Pohoda to Realpad](https://github.com/Spoje-NET/pohoda-realpad) - Pohoda vs Realpad integration tools
-
+* [pohoda-kb](https://github.com/Spoje-NET/pohoda-kb) - Import Komerční Banka statements into Pohoda
+* [pohoda-csas](https://github.com/Spoje-NET/pohoda-csas) - Import Česká Spořitelna statements into Pohoda
+* [pohoda-csob](https://github.com/Spoje-NET/pohoda-csob) - Import CSOB Bank statements and movements to Stormware Pohoda
+* [pohoda-unicredit](https://github.com/Spoje-NET/pohoda-unicredit) - Import Unicredit Bank statements and movements to Stormware Pohoda
+* [pohodactl](https://github.com/Spoje-NET/pohodactl) - Our enhanced fork of PowerShell script for automating STORMWARE POHODA accounting software.
+* [pohoda-client-checker](https://github.com/Spoje-NET/pohoda-client-checker) -  Check connection to Stormware mServer
+* [PohodaSQL](https://github.com/Spoje-NET/PohodaSQL) - PHP Library for Pohoda SQL Tables access
 
 #### for Realpad ![Realpad Logo](realpad.svg?raw=true)
 
 * [Pohoda to Realpad](https://github.com/Spoje-NET/pohoda-realpad) - Pohoda vs Realpad integration tools
 * [Realpad to Mailkit](https://github.com/Spoje-NET/realpad2mailkit) - Synchronize Realpad Contacts into Mailkit
 * [Takeout Library](https://github.com/Spoje-NET/PHP-Realpad-Takeout) - Realpad Takeout API Client to back up the data stored in the system.
-
