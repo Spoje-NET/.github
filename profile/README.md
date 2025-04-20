@@ -13,3 +13,22 @@ Take a look at our resources and decide for yourself whether it would be more ad
 | [Česká Spořitelna a.s.](https://www.csas.cz/)    | [csas-accountsapi](https://github.com/Spoje-NET/php-csas-accountsapi)      |     | [pohoda-csas](https://github.com/Spoje-NET/pohoda-csas) |  |
 | [Komerční Banka a.s.](https://www.kb.cz/)        | [kb-accountsapi](https://github.com/Spoje-NET/php-kb-accountsapi)            | [kb-statement-tools](https://github.com/Spoje-NET/kb-statement-tools) | [pohoda-kb](https://github.com/Spoje-NET/pohoda-kb)  |  |
 
+#### for AbraFlexi ![AbraFlexi](abraflexi.svg?raw=true)
+
+* [php-abraflexi](https://github.com/Spoje-NET/php-abraflexi) - PHP Library for easy interaction with economic system AbraFlexi.
+* [Discomp to Abraflexi](https://github.com/Spoje-NET/discomp2abraflexi) - Import Discomp pricelist into AbraFlexi
+* [AbraFlexi IPEX](https://github.com/Spoje-NET/abraflexi-ipex) - Ipex ⛗ AbraFlexi integration 
+* [Subreg to AbraFlexi](https://github.com/Spoje-NET/subreg2abraflexi) - Import Subreg Pricelist into AbraFlexi 
+
+
+#### for Pohoda ![Stormware Pohoda](pohoda.svg?raw=true)
+
+* [Pohoda to Realpad](https://github.com/Spoje-NET/pohoda-realpad) - Pohoda vs Realpad integration tools
+
+
+#### for Realpad ![Realpad Logo](realpad.svg?raw=true)
+
+* [Pohoda to Realpad](https://github.com/Spoje-NET/pohoda-realpad) - Pohoda vs Realpad integration tools
+* [Realpad to Mailkit](https://github.com/Spoje-NET/realpad2mailkit) - Synchronize Realpad Contacts into Mailkit
+* [Takeout Library](https://github.com/Spoje-NET/PHP-Realpad-Takeout) - Realpad Takeout API Client to back up the data stored in the system.
+
