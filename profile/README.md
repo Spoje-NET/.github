@@ -31,6 +31,8 @@ Take a look at our resources and decide for yourself whether it would be more ad
 * [pohoda-unicredit](https://github.com/Spoje-NET/pohoda-unicredit) - Import Unicredit Bank statements and movements to Stormware Pohoda
 * [pohodactl](https://github.com/Spoje-NET/pohodactl) - Our enhanced fork of PowerShell script for automating STORMWARE POHODA accounting software.
 * [pohoda-client-checker](https://github.com/Spoje-NET/pohoda-client-checker) -  Check connection to Stormware mServer
+* [pohoda-tools](https://github.com/Spoje-NET/pohoda-tools) - CLI helpers for Stormware Pohoda (mServer), e.g. fake bank receipts
+* [pohoda-changes-api](https://github.com/Spoje-NET/pohoda-changes-api) - Pohoda changes poller, record cache and outbound webhooks
 * [PohodaSQL](https://github.com/Spoje-NET/PohodaSQL) - PHP Library for Pohoda SQL Tables access
 
 #### for Realpad ![Realpad Logo](realpad.svg?raw=true)
